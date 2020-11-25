@@ -1,4 +1,5 @@
 {
     "name": "Jan", 
-    "surname": "Kowalski"
+    "surname": "Kowalski",
+    "hobby": ["Football", "Hockey", "Golf"]
 }
